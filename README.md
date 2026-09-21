@@ -69,6 +69,7 @@ link to their source-available code for inclusion.
 - [Remix Icon](https://github.com/Remix-Design/RemixIcon) - set of neutral-style system symbols, including but not limited to payment method icons, for designers and developers
 
 ## Integrations
+- [FeeGuard](https://feeguard.dev) - Checks Stripe Connect refunds and disputes for unreversed transfers, unadjusted application fees, and uncovered platform losses.
 - [hyperswitch.io](https://github.com/juspay/hyperswitch/) - is a Financial Switch that connects you with multiple payment processors and route traffic effortlessly with a single API integration
 - [paypal-checkout-components](https://github.com/paypal/paypal-checkout-components) - JavaScript integration for PayPal Button and PayPal Checkout
 - [react-native-payments](https://github.com/naoufal/react-native-payments) - for integrating payments like Apple Pay and Google Pay into your React Native app
